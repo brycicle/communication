@@ -1,7 +1,5 @@
 # Communication Service
 
-Scaffolding for Spring Microservices
-
 ### Tech
 * [Spring Boot](https://spring.io/projects/spring-boot/)
 * [Hibernate](https://hibernate.org/)
@@ -18,3 +16,10 @@ Scaffolding for Spring Microservices
 * [Docker](https://www.docker.com/)
 * [Kubernetes](https://kubernetes.io/)
 * [Google Cloud](https://cloud.google.com/)
+
+# Links
+    *Requires Authentication
+    *Username : user
+    *Password : pass
+* [Swagger Docs](http://34.87.173.62:8003/swagger-ui/index.html)
+* [Docker Repository](https://hub.docker.com/repository/docker/bryce27923/communication)
